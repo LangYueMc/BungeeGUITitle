@@ -1,0 +1,5 @@
+name: ${project.name}
+main: com.jianymc.bungeeguititle.BGTBukkitPlugin
+version: ${project.version}
+author: Lang_Yue
+depend: [Vault]
